@@ -1,4 +1,4 @@
-**🚑💡 Multiple Disease Prediction System 💻🌡️**
+**🚑💡 Multiple Disease Prediction System. 💻🌡️**
 
 A Machine Learning powered web app to predict multiple diseases using Python & Streamlit 🐍✨
 
