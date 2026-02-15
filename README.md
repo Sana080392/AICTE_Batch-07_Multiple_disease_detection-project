@@ -1,0 +1,1 @@
+# AICTE_Multiple_disease_detection-project
