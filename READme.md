@@ -24,7 +24,7 @@ It allows users to input health parameters and receive real-time disease likelih
 Start the Streamlit app with:
 **python -m streamlit run app.py**
 
-👉 The app will open in your browser (http://localhost:8501/) 💻
+👉 The app will open in your browser (http://localhost:8501) 💻
 
 **📝 Usage**
 -📥 Enter health inputs like age, glucose level, blood pressure, etc.
