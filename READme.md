@@ -22,7 +22,7 @@ It allows users to input health parameters and receive real-time disease likelih
 
 **🚀 Run the App**
 Start the Streamlit app with:
-**python -m streamlit run app.py**
+**python -m streamlit run "Your PATH File" **
 
 👉 The app will open in your browser
 
