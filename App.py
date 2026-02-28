@@ -249,6 +249,4 @@ if selected == "Parkinsons Prediction":
             parkinsons_diagnosis = "The person does not have Parkinson's disease"
 
     st.success(parkinsons_diagnosis)
-
-
-    #code to run: python -m streamlit run App.py   
+  
